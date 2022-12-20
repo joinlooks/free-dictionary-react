@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/free-dictionary-react/static/css/main.281a2e59.css",
-    "main.js": "/free-dictionary-react/static/js/main.5ccdde7f.js",
+    "main.js": "/free-dictionary-react/static/js/main.adba0064.js",
     "index.html": "/free-dictionary-react/index.html",
     "main.281a2e59.css.map": "/free-dictionary-react/static/css/main.281a2e59.css.map",
-    "main.5ccdde7f.js.map": "/free-dictionary-react/static/js/main.5ccdde7f.js.map"
+    "main.adba0064.js.map": "/free-dictionary-react/static/js/main.adba0064.js.map"
   },
   "entrypoints": [
     "static/css/main.281a2e59.css",
-    "static/js/main.5ccdde7f.js"
+    "static/js/main.adba0064.js"
   ]
 }
